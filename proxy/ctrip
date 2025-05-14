@@ -1,0 +1,8 @@
+DOMAIN,shcas2019.cn1.global.ctrip.com,no-resolve
+DOMAIN,cat.uat.qa.nt.ctripcorp.com,no-resolve
+DOMAIN-SUFFIX,ctripcorp.com
+DOMAIN,encrypted-tbn0.gstatic.com
+DOMAIN-SUFFIX,c-ctrip.com
+DOMAIN-SUFFIX,global.ctrip.com
+IP-CIDR,10.0.0.0/8,no-resolve
+IP-CIDR,1.1.1.0/30,no-resolve

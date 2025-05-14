@@ -1,0 +1,8 @@
+DOMAIN,download-cdn.jetbrains.com
+DOMAIN,download.jetbrains.com
+DOMAIN-SUFFIX,feishu.com,no-resolve
+DOMAIN-SUFFIX,feishu.cn,no-resolve
+DOMAIN-KEYWORD,feishu,no-resolve
+DOMAIN-KEYWORD,atrust
+DOMAIN-SUFFIX,ls.apple.com
+DOMAIN-SUFFIX,apple-mapkit.com

@@ -6,4 +6,3 @@ DOMAIN-SUFFIX,c-ctrip.com
 DOMAIN-SUFFIX,global.ctrip.com
 IP-CIDR,10.0.0.0/8,no-resolve
 IP-CIDR,1.1.1.0/30,no-resolve
-URL-REGEX,^https?:\/\/[a-z]{1,10}\/

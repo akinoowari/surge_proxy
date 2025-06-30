@@ -4,5 +4,7 @@ DOMAIN-SUFFIX,ctripcorp.com
 DOMAIN,encrypted-tbn0.gstatic.com
 DOMAIN-SUFFIX,c-ctrip.com
 DOMAIN-SUFFIX,global.ctrip.com
+DOMAIN-SUFFIX,ctrip.com
+DOMAIN-SUFFIX,ctripqa.com
 IP-CIDR,10.0.0.0/8,no-resolve
 IP-CIDR,1.1.1.0/30,no-resolve
